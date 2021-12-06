@@ -7,7 +7,7 @@ public class Test {
 	{  
 	int num, n2, n3;      
 	Scanner sc=new Scanner(System.in);  
-	System.out.print("Enter any Number: ");  
+	//System.out.print("Enter any Number: ");  
 	num = sc.nextInt();  
 	n2 = num * 2;  
 	n3 = num * 3;  
